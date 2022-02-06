@@ -2,7 +2,7 @@
 
 ## Import the Data
 
-Note: I completed this in my dev enviroment, where all required installations for Module 6 activites in the 'Getting Started' were installed.
+Note: I completed this in my dev enviroment, where all required installations for Module 6 activities in the 'Getting Started' were installed.
 
 1. Our included imports are pandas as pd, hvplot.pandas for plotting, and Path from patlib for reading .csv files. We first want to import the information from sfo_neighborhoods_census_data into a data frame sfo_data_df using the pandas read_csv function. Within the function, we call the path to the file, and index columns with 'year' with the following:
 
